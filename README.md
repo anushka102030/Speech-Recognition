@@ -1,3 +1,5 @@
-# speech-recognition
+# Speech-recognition
 
-The best branch :D
+This code is part of a Human-Centered Robotics project
+
+## Basic NLP concepts were used and implemented
