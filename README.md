@@ -6,5 +6,5 @@ This code is part of a Human-Centered Robotics project
 
 ## Contributors
 - [Anushka Kulkarni](https://github.com/anushka102030)
-+ [@JeetendraJoshi]
-* [@adityag16]
++ [Jeetendra Joshi](https://github.com/JeetendraJoshi)
+* [Aditya Gupta](https://github.com/adityag16)
